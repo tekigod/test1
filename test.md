@@ -5,3 +5,8 @@ asd
 asd
 asdasdasasda
 ddddd
+тестируем пулл Конфиликт №1
+
+asd
+Конфликт №2
+asfasofasf       Конфликт №3
